@@ -1,0 +1,14 @@
+E:\batch1\ms.net\batch1\Assignment3\bin\Debug\net9.0\Assignment3.exe
+E:\batch1\ms.net\batch1\Assignment3\bin\Debug\net9.0\Assignment3.deps.json
+E:\batch1\ms.net\batch1\Assignment3\bin\Debug\net9.0\Assignment3.runtimeconfig.json
+E:\batch1\ms.net\batch1\Assignment3\bin\Debug\net9.0\Assignment3.dll
+E:\batch1\ms.net\batch1\Assignment3\bin\Debug\net9.0\Assignment3.pdb
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\Assignment3.AssemblyInfoInputs.cache
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\Assignment3.AssemblyInfo.cs
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\Assignment3.csproj.CoreCompileInputs.cache
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\Assignment3.dll
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\refint\Assignment3.dll
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\Assignment3.pdb
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\Assignment3.genruntimeconfig.cache
+E:\batch1\ms.net\batch1\Assignment3\obj\Debug\net9.0\ref\Assignment3.dll

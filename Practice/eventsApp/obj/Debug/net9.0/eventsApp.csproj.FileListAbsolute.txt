@@ -1,0 +1,14 @@
+C:\Users\ajays\source\repos\Practice\eventsApp\bin\Debug\net9.0\eventsApp.exe
+C:\Users\ajays\source\repos\Practice\eventsApp\bin\Debug\net9.0\eventsApp.deps.json
+C:\Users\ajays\source\repos\Practice\eventsApp\bin\Debug\net9.0\eventsApp.runtimeconfig.json
+C:\Users\ajays\source\repos\Practice\eventsApp\bin\Debug\net9.0\eventsApp.dll
+C:\Users\ajays\source\repos\Practice\eventsApp\bin\Debug\net9.0\eventsApp.pdb
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\eventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\eventsApp.AssemblyInfoInputs.cache
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\eventsApp.AssemblyInfo.cs
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\eventsApp.csproj.CoreCompileInputs.cache
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\eventsApp.dll
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\refint\eventsApp.dll
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\eventsApp.pdb
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\eventsApp.genruntimeconfig.cache
+C:\Users\ajays\source\repos\Practice\eventsApp\obj\Debug\net9.0\ref\eventsApp.dll

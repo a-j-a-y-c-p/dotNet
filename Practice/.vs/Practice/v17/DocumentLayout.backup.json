@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajays\\source\\repos\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0FE6DF-186A-4132-BCFC-6C3B9A0BF042}|eventsApp\\eventsApp.csproj|c:\\users\\ajays\\source\\repos\\practice\\eventsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0FE6DF-186A-4132-BCFC-6C3B9A0BF042}|eventsApp\\eventsApp.csproj|solutionrelative:eventsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B218CC3-07A8-4B6F-AA31-FA76603C987C}|DeligatePractice2\\Practice2.csproj|c:\\users\\ajays\\source\\repos\\practice\\deligatepractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B218CC3-07A8-4B6F-AA31-FA76603C987C}|DeligatePractice2\\Practice2.csproj|solutionrelative:deligatepractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C5ACE-FC6A-4F60-AF97-3912D84ED8DF}|Practice\\Practice.csproj|c:\\users\\ajays\\source\\repos\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62C5ACE-FC6A-4F60-AF97-3912D84ED8DF}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajays\\source\\repos\\Practice\\eventsApp\\Program.cs",
+              "RelativeDocumentMoniker": "eventsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ajays\\source\\repos\\Practice\\eventsApp\\Program.cs*",
+              "RelativeToolTip": "eventsApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:54:59.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajays\\source\\repos\\Practice\\DeligatePractice2\\Program.cs",
+              "RelativeDocumentMoniker": "DeligatePractice2\\Program.cs",
+              "ToolTip": "C:\\Users\\ajays\\source\\repos\\Practice\\DeligatePractice2\\Program.cs",
+              "RelativeToolTip": "DeligatePractice2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:31:06.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajays\\source\\repos\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\ajays\\source\\repos\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:32:11.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

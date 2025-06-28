@@ -1,0 +1,4 @@
+C:\Users\ajays\source\repos\interface\interface\obj\Debug\net9.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajays\source\repos\interface\interface\obj\Debug\net9.0\interface.AssemblyInfoInputs.cache
+C:\Users\ajays\source\repos\interface\interface\obj\Debug\net9.0\interface.AssemblyInfo.cs
+C:\Users\ajays\source\repos\interface\interface\obj\Debug\net9.0\interface.csproj.CoreCompileInputs.cache
