@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.AssemblyInfo.cs
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.sourcelink.json
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\bin\Debug\net9.0\practice_30Jun.exe
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\bin\Debug\net9.0\practice_30Jun.deps.json
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\bin\Debug\net9.0\practice_30Jun.runtimeconfig.json
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\bin\Debug\net9.0\practice_30Jun.dll
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\bin\Debug\net9.0\practice_30Jun.pdb
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.dll
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\refint\practice_30Jun.dll
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.pdb
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\practice_30Jun.genruntimeconfig.cache
+E:\CDAC\ms.net\practice_30Jun\practice_30Jun\obj\Debug\net9.0\ref\practice_30Jun.dll
