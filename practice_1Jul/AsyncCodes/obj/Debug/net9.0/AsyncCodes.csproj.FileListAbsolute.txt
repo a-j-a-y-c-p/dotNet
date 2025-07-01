@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\bin\Debug\net9.0\AsyncCodes.exe
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\bin\Debug\net9.0\AsyncCodes.deps.json
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\bin\Debug\net9.0\AsyncCodes.runtimeconfig.json
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\bin\Debug\net9.0\AsyncCodes.dll
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\bin\Debug\net9.0\AsyncCodes.pdb
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.AssemblyInfo.cs
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.sourcelink.json
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.dll
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\refint\AsyncCodes.dll
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.pdb
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\AsyncCodes.genruntimeconfig.cache
+E:\CDAC\ms.net\practice_1Jul\AsyncCodes\obj\Debug\net9.0\ref\AsyncCodes.dll

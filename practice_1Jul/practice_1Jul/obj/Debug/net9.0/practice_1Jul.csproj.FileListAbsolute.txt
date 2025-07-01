@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\bin\Debug\net9.0\practice_1Jul.exe
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\bin\Debug\net9.0\practice_1Jul.deps.json
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\bin\Debug\net9.0\practice_1Jul.runtimeconfig.json
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\bin\Debug\net9.0\practice_1Jul.dll
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\bin\Debug\net9.0\practice_1Jul.pdb
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.AssemblyInfo.cs
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.sourcelink.json
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.dll
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\refint\practice_1Jul.dll
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.pdb
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\practice_1Jul.genruntimeconfig.cache
+E:\CDAC\ms.net\practice_1Jul\practice_1Jul\obj\Debug\net9.0\ref\practice_1Jul.dll

@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.AssemblyInfo.cs
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.sourcelink.json
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\bin\Debug\net9.0\ThreadPoolExample.exe
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\bin\Debug\net9.0\ThreadPoolExample.deps.json
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\bin\Debug\net9.0\ThreadPoolExample.runtimeconfig.json
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\bin\Debug\net9.0\ThreadPoolExample.dll
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\bin\Debug\net9.0\ThreadPoolExample.pdb
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.dll
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\refint\ThreadPoolExample.dll
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.pdb
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ThreadPoolExample.genruntimeconfig.cache
+E:\CDAC\ms.net\practice_1Jul\ThreadPoolExample\obj\Debug\net9.0\ref\ThreadPoolExample.dll
