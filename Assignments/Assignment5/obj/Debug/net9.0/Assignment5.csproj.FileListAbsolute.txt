@@ -1,0 +1,15 @@
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\bin\Debug\net9.0\Assignment5.exe
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\bin\Debug\net9.0\Assignment5.deps.json
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\bin\Debug\net9.0\Assignment5.runtimeconfig.json
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\bin\Debug\net9.0\Assignment5.dll
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\bin\Debug\net9.0\Assignment5.pdb
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.AssemblyInfoInputs.cache
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.AssemblyInfo.cs
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.csproj.CoreCompileInputs.cache
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.sourcelink.json
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.dll
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\refint\Assignment5.dll
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.pdb
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\Assignment5.genruntimeconfig.cache
+E:\batch1\ms.net\gitRepo\Assignments\Assignment5\obj\Debug\net9.0\ref\Assignment5.dll

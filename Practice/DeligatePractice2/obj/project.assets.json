@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ajays\\.nuget\\packages\\": {},
+    "C:\\Users\\dac\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajays\\source\\repos\\Practice\\DeligatePractice2\\Practice2.csproj",
+      "projectUniqueName": "E:\\batch1\\ms.net\\gitRepo\\Practice\\DeligatePractice2\\Practice2.csproj",
       "projectName": "Practice2",
-      "projectPath": "C:\\Users\\ajays\\source\\repos\\Practice\\DeligatePractice2\\Practice2.csproj",
-      "packagesPath": "C:\\Users\\ajays\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajays\\source\\repos\\Practice\\DeligatePractice2\\obj\\",
+      "projectPath": "E:\\batch1\\ms.net\\gitRepo\\Practice\\DeligatePractice2\\Practice2.csproj",
+      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+      "outputPath": "E:\\batch1\\ms.net\\gitRepo\\Practice\\DeligatePractice2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ajays\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

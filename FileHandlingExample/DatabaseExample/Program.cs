@@ -1,5 +1,9 @@
 ﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Data;
+using static System.Net.Mime.MediaTypeNames;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Diagnostics.Metrics;
 
 namespace DatabaseExample
 {
@@ -21,8 +25,10 @@ namespace DatabaseExample
             //{
             //    Console.WriteLine(emp.Name);
             //}
-
-            Console.WriteLine(getSingleEmployee(9));
+            //Console.WriteLine(getSingleEmployee(3));
+            Employee e = new Employee { EmpNo = 8, Name = "Yash", Basic = 150000, DeptNo = 10 };
+            //update(e);
+            delete(8);
         }
         
 
@@ -129,13 +135,60 @@ namespace DatabaseExample
             }
         }
 
-        static void update()
+        static void update(Employee emp)
         {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
+            try
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = "UpdateEmployee";
+                cmd.Parameters.AddWithValue("@EmpNo", emp.EmpNo);
+                cmd.Parameters.AddWithValue("@Name", emp.Name);
+                cmd.Parameters.AddWithValue("@Basic", emp.Basic);
+                cmd.Parameters.AddWithValue("@DeptNo", emp.DeptNo);
 
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("success");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
         }
 
-        static void delete()
+        static void delete(int EmpNo)
         {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
+            try
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = "DeleteEmployee";
+                cmd.Parameters.AddWithValue("@EmpNO", EmpNo);
+
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("deleted successfully");
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
 
         }
 
@@ -233,12 +286,12 @@ namespace DatabaseExample
 
             return employees;
         }
-
         static Employee getSingleEmployee(int EmpNo)
         {
             Employee emp = null;
 
             SqlConnection cn = new SqlConnection();
+            //cn.ConnectionString = "Data Source = (localdb)\\ProjectModels; Initial Catalog = master; Integrated Security = True";
             cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
             try
             {
@@ -358,7 +411,7 @@ namespace DatabaseExample
         public class Employee
         {
             public int EmpNo { get; set; }
-            public string Name { get; set; }
+            public string? Name { get; set; }
 
             public decimal Basic {  get; set; }
 

@@ -12,16 +12,16 @@
             for (int i = 0; i < n; i++)
             {
                 arr[i] = new Employee();
-                Console.Write($"Enter Name of {i+1} employee");
+                Console.Write($"Enter Name of {i+1} employee : ");
                 arr[i].Name = Console.ReadLine();
-                Console.Write($"Enter Salary of {i + 1} employee");
+                Console.Write($"Enter Salary of {i + 1} employee : ");
                 arr[i].Salary = Convert.ToInt64(Console.ReadLine());
             }
 
             Array.Sort(arr, new Employee2());
 
             foreach (Employee item in arr) {
-                Console.WriteLine(item.ToString());
+                Console.WriteLine(item);
             }
 
             Console.WriteLine("Enter EmpNo");
@@ -35,9 +35,21 @@
             }
             else
             {
+                Console.WriteLine("Employee Found!!");
                 Console.WriteLine(arr[idx]);
             }
-            
+
+
+            //2. convert it to list 
+            IList<Employee> empList = new List<Employee>();
+            empList = arr.ToList();
+
+            //display list of employeees
+            Console.WriteLine("____________Employee Details ____________");
+            foreach (Employee item in empList)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 

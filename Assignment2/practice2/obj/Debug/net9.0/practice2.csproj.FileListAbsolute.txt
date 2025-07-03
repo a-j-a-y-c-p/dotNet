@@ -1,0 +1,14 @@
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\practice2.AssemblyInfoInputs.cache
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\practice2.AssemblyInfo.cs
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\practice2.csproj.CoreCompileInputs.cache
+E:\batch1\ms.net\Assignment2\practice2\bin\Debug\net9.0\practice2.exe
+E:\batch1\ms.net\Assignment2\practice2\bin\Debug\net9.0\practice2.deps.json
+E:\batch1\ms.net\Assignment2\practice2\bin\Debug\net9.0\practice2.runtimeconfig.json
+E:\batch1\ms.net\Assignment2\practice2\bin\Debug\net9.0\practice2.dll
+E:\batch1\ms.net\Assignment2\practice2\bin\Debug\net9.0\practice2.pdb
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\practice2.dll
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\refint\practice2.dll
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\practice2.pdb
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\practice2.genruntimeconfig.cache
+E:\batch1\ms.net\Assignment2\practice2\obj\Debug\net9.0\ref\practice2.dll
