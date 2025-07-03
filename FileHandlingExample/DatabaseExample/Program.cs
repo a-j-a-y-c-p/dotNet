@@ -28,7 +28,10 @@ namespace DatabaseExample
             //Console.WriteLine(getSingleEmployee(3));
             Employee e = new Employee { EmpNo = 8, Name = "Yash", Basic = 150000, DeptNo = 10 };
             //update(e);
-            delete(8);
+            //delete(8);
+
+            //getDataFromMultipleTable();
+            transactionsFunction();
         }
         
 
@@ -327,23 +330,25 @@ namespace DatabaseExample
             return emp;
         }
 
-        static Employee getDataFromMultipleTable(int EmpNo)
+        static void getDataFromMultipleTable()
         {
-            Employee emp = null;
+          
+ 
 
             SqlConnection cn = new SqlConnection();
             //specific To sql server ====>
-            //MultipleActiveResultSet=true (MARS) ---->  to open multiple connecions (read from multiple tables at the same time)
+            //MultipleActiveResultSets=true (MARS) ---->  to open multiple connecions (read from multiple tables at the same time)
             // without MARS therse is default property that if a reader is using the cn
             // then no one other can open the cn until the first reader is finished.
-            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;MultipleActiveResultSet=true"; try
+            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;MultipleActiveResultSets=true;"; 
+            try
             {
                 cn.Open();
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = cn;
                 cmd.CommandType = CommandType.Text;
-                cmd.CommandText = "select * from employees where empNo = @EmpNo";
-                cmd.Parameters.AddWithValue("@EmpNo", EmpNo);
+                cmd.CommandText = "select * from departments";
+
 
                 //Automatically close the connection when reader is closed.
                 //(usefull if wer are passing the reader
@@ -351,14 +356,21 @@ namespace DatabaseExample
                 //if there is a lock on database that can only connect to one table at a time
                 SqlDataReader dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
 
+                SqlCommand cmd2 = new SqlCommand();
+                cmd2.Connection = cn;
+                cmd2.CommandType = CommandType.Text;
+                
 
-                if (dr.Read())
+                while (dr.Read())
                 {
-                    emp = new Employee();
-                    emp.EmpNo = (int)dr[0];
-                    emp.Name = (string)dr["name"];
-                    emp.Basic = (decimal)dr["basic"];
-                    emp.DeptNo = (int)dr["deptno"];
+                    Console.WriteLine(dr["DeptName"]);
+                    cmd2.CommandText = $"select Name from employees where DeptNo = {dr["DeptNo"]}";
+                    SqlDataReader dr2 = cmd2.ExecuteReader();
+                    while (dr2.Read())
+                    {
+                        Console.WriteLine("     --> " + dr2["Name"]);
+                    }
+                    dr2.Close();
                 }
 
                 dr.Close();
@@ -372,22 +384,35 @@ namespace DatabaseExample
                 cn.Close();
             }
 
-            return emp;
         }
 
 
-        static void transectionsFunction()
+        static void transactionsFunction()
         {
             SqlConnection cn = new SqlConnection();
 
-            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;MultipleActiveResultSet=true";
+            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;MultipleActiveResultSets=true";
+
+            cn.Open();
             SqlTransaction t = cn.BeginTransaction();
 
             SqlCommand cmd1 = new SqlCommand();
             SqlCommand cmd2 = new SqlCommand();
+            Employee emp = new Employee { EmpNo = 9, Name = "Virender", Basic = 8765, DeptNo = 20 };
 
             cmd1.Transaction = t;  // if we had done cn.beginTransection then this line is compulsory
             cmd2.Transaction = t;
+            cmd1.Connection = cn;
+            cmd2.Connection = cn;
+            cmd1.CommandType = CommandType.StoredProcedure;
+            cmd1.CommandText = "InsertEmployee";
+            cmd1.Parameters.AddWithValue("@EmpNo", emp.EmpNo);
+            cmd1.Parameters.AddWithValue("@Name", emp.Name);
+            cmd1.Parameters.AddWithValue("@Basic", emp.Basic);
+            cmd1.Parameters.AddWithValue("@DeptNo", emp.DeptNo);
+
+            cmd2.CommandType = CommandType.Text;
+            cmd2.CommandText = "insert into departments values (0,'CR')";
 
             try
             {
