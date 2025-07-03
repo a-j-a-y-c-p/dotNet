@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.AssemblyInfo.cs
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.sourcelink.json
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\bin\Debug\net9.0\asyncAwait.exe
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\bin\Debug\net9.0\asyncAwait.deps.json
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\bin\Debug\net9.0\asyncAwait.runtimeconfig.json
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\bin\Debug\net9.0\asyncAwait.dll
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\bin\Debug\net9.0\asyncAwait.pdb
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.dll
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\refint\asyncAwait.dll
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.pdb
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\asyncAwait.genruntimeconfig.cache
+E:\CDAC\ms.net\Practice_2Jul\asyncAwait\obj\Debug\net9.0\ref\asyncAwait.dll

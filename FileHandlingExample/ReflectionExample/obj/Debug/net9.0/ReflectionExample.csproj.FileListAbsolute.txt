@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\bin\Debug\net9.0\ReflectionExample.exe
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\bin\Debug\net9.0\ReflectionExample.deps.json
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\bin\Debug\net9.0\ReflectionExample.runtimeconfig.json
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\bin\Debug\net9.0\ReflectionExample.dll
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\bin\Debug\net9.0\ReflectionExample.pdb
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.AssemblyInfo.cs
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.sourcelink.json
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.dll
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\refint\ReflectionExample.dll
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.pdb
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ReflectionExample.genruntimeconfig.cache
+E:\CDAC\ms.net\FileHandlingExample\ReflectionExample\obj\Debug\net9.0\ref\ReflectionExample.dll

@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\Practice_2Jul\Practice\bin\Debug\net9.0\taskPractice.exe
+E:\CDAC\ms.net\Practice_2Jul\Practice\bin\Debug\net9.0\taskPractice.deps.json
+E:\CDAC\ms.net\Practice_2Jul\Practice\bin\Debug\net9.0\taskPractice.runtimeconfig.json
+E:\CDAC\ms.net\Practice_2Jul\Practice\bin\Debug\net9.0\taskPractice.dll
+E:\CDAC\ms.net\Practice_2Jul\Practice\bin\Debug\net9.0\taskPractice.pdb
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.AssemblyInfo.cs
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.sourcelink.json
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.dll
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\refint\taskPractice.dll
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.pdb
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\taskPractice.genruntimeconfig.cache
+E:\CDAC\ms.net\Practice_2Jul\Practice\obj\Debug\net9.0\ref\taskPractice.dll

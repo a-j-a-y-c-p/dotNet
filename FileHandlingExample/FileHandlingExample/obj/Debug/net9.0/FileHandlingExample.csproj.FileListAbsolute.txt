@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\bin\Debug\net9.0\FileHandlingExample.exe
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\bin\Debug\net9.0\FileHandlingExample.deps.json
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\bin\Debug\net9.0\FileHandlingExample.runtimeconfig.json
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\bin\Debug\net9.0\FileHandlingExample.dll
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\bin\Debug\net9.0\FileHandlingExample.pdb
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.AssemblyInfo.cs
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.sourcelink.json
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.dll
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\refint\FileHandlingExample.dll
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.pdb
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\FileHandlingExample.genruntimeconfig.cache
+E:\CDAC\ms.net\FileHandlingExample\FileHandlingExample\obj\Debug\net9.0\ref\FileHandlingExample.dll

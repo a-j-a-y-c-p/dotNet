@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\bin\Debug\net9.0\TPLExamples.exe
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\bin\Debug\net9.0\TPLExamples.deps.json
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\bin\Debug\net9.0\TPLExamples.runtimeconfig.json
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\bin\Debug\net9.0\TPLExamples.dll
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\bin\Debug\net9.0\TPLExamples.pdb
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.AssemblyInfo.cs
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.sourcelink.json
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.dll
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\refint\TPLExamples.dll
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.pdb
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\TPLExamples.genruntimeconfig.cache
+E:\CDAC\ms.net\Practice_2Jul\TPLExamples\obj\Debug\net9.0\ref\TPLExamples.dll

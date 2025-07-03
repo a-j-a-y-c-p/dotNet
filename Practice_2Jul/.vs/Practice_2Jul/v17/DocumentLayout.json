@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\ms.net\\Practice_2Jul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A009828-6698-40F2-A441-F7E5260556AB}|delegateAsync\\delegateAsync.csproj|E:\\CDAC\\ms.net\\Practice_2Jul\\delegateasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A009828-6698-40F2-A441-F7E5260556AB}|delegateAsync\\delegateAsync.csproj|solutionrelative:delegateasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ADEC74-8EA0-4E36-87B2-A734DECB42DE}|asyncAwait\\asyncAwait.csproj|e:\\cdac\\ms.net\\practice_2jul\\asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ADEC74-8EA0-4E36-87B2-A734DECB42DE}|asyncAwait\\asyncAwait.csproj|solutionrelative:asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEB020C-3FF7-4460-B650-DFCDE3CDE9BB}|disposeExample\\disposeExample.csproj|e:\\cdac\\ms.net\\practice_2jul\\disposeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEB020C-3FF7-4460-B650-DFCDE3CDE9BB}|disposeExample\\disposeExample.csproj|solutionrelative:disposeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227D183D-245E-4529-A511-5920D292CFB7}|TPLExamples\\TPLExamples.csproj|e:\\cdac\\ms.net\\practice_2jul\\tplexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227D183D-245E-4529-A511-5920D292CFB7}|TPLExamples\\TPLExamples.csproj|solutionrelative:tplexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0978ECD-A1F6-4834-A55E-A59D6836F6E7}|Practice\\taskPractice.csproj|e:\\cdac\\ms.net\\practice_2jul\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0978ECD-A1F6-4834-A55E-A59D6836F6E7}|Practice\\taskPractice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\ms.net\\Practice_2Jul\\disposeExample\\Program.cs",
+              "RelativeDocumentMoniker": "disposeExample\\Program.cs",
+              "ToolTip": "E:\\CDAC\\ms.net\\Practice_2Jul\\disposeExample\\Program.cs",
+              "RelativeToolTip": "disposeExample\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:00:13.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\ms.net\\Practice_2Jul\\TPLExamples\\Program.cs",
+              "RelativeDocumentMoniker": "TPLExamples\\Program.cs",
+              "ToolTip": "E:\\CDAC\\ms.net\\Practice_2Jul\\TPLExamples\\Program.cs",
+              "RelativeToolTip": "TPLExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:44:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\ms.net\\Practice_2Jul\\asyncAwait\\Program.cs",
+              "RelativeDocumentMoniker": "asyncAwait\\Program.cs",
+              "ToolTip": "E:\\CDAC\\ms.net\\Practice_2Jul\\asyncAwait\\Program.cs",
+              "RelativeToolTip": "asyncAwait\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:26:02.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\ms.net\\Practice_2Jul\\delegateAsync\\Program.cs",
+              "RelativeDocumentMoniker": "delegateAsync\\Program.cs",
+              "ToolTip": "E:\\CDAC\\ms.net\\Practice_2Jul\\delegateAsync\\Program.cs",
+              "RelativeToolTip": "delegateAsync\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:40:04.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\ms.net\\Practice_2Jul\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "E:\\CDAC\\ms.net\\Practice_2Jul\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:33:51.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

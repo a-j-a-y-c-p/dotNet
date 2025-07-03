@@ -41,7 +41,20 @@ namespace practice_1Jul
             var emps8 = from emp in empList group emp by emp.DeptId;
             var emps9 = from emp in empList group emp by emp.DeptId into group1 select group1;
             var emps10 = from emp in empList group emp by emp.DeptId into group1 select  new { group1 ,Count = group1.Count()};
-            var emps11 = empList.GroupBy(deptList => deptList.DeptId);
+            var emps11 = empList.GroupBy(emp => emp.DeptId);
+
+            //foreach(var item in emps11)
+            //{
+            //    Console.WriteLine(item.Key);
+            //    foreach (var item1 in item)
+            //    {
+            //        Console.WriteLine(item1);
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            //Error
+            //Console.WriteLine(empList.Single(emp => emp.DeptId == 1 ));
 
             //foreach (var item in emps10)
             //{
@@ -67,22 +80,22 @@ namespace practice_1Jul
 
 
 
-            var t = Tuple.Create(1, 2, 3, 4, 5, 6, 7, Tuple.Create(2));
+            //var t = Tuple.Create(1, 2, 3, 4, 5, 6, 7, Tuple.Create(2));
 
-            (int, int) v = (1, 2);
-            var vt1 = (2, "234");
-            var v2 = (Num1: 2, Num2: 9);
+            //(int, int) v = (1, 2);
+            //var vt1 = (2, "234");
+            //var v2 = (Num1: 2, Num2: 9);
 
-            Console.WriteLine(v);
-            Console.WriteLine(vt1);
-            Console.WriteLine(v2.Num1);
-            Console.WriteLine(v2.Num2);
+            //Console.WriteLine(v);
+            //Console.WriteLine(vt1);
+            //Console.WriteLine(v2.Num1);
+            //Console.WriteLine(v2.Num2);
 
 
             //?????????????????????????????????????????????????????????????????????????????????????
             //var t1 = (1, "abc");
             //fun(t1);
-           
+
         }
 
 

@@ -1,0 +1,15 @@
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\bin\Debug\net9.0\disposeExample.exe
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\bin\Debug\net9.0\disposeExample.deps.json
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\bin\Debug\net9.0\disposeExample.runtimeconfig.json
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\bin\Debug\net9.0\disposeExample.dll
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\bin\Debug\net9.0\disposeExample.pdb
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.AssemblyInfo.cs
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.sourcelink.json
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.dll
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\refint\disposeExample.dll
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.pdb
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\disposeExample.genruntimeconfig.cache
+E:\CDAC\ms.net\Practice_2Jul\disposeExample\obj\Debug\net9.0\ref\disposeExample.dll

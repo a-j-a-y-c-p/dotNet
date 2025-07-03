@@ -1,0 +1,8 @@
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\bin\Debug\delegateAsync.exe.config
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\bin\Debug\delegateAsync.exe
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\bin\Debug\delegateAsync.pdb
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\obj\Debug\delegateAsync.csproj.AssemblyReference.cache
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\obj\Debug\delegateAsync.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\obj\Debug\delegateAsync.exe
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\obj\Debug\delegateAsync.pdb
+E:\CDAC\ms.net\Practice_2Jul\delegateAsync\obj\Debug\delegateAsync.exe.config
