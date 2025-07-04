@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yit+NK0gaJA=",
+  "dgSpecHash": "hWUTASKWFVk=",
   "success": true,
-  "projectFilePath": "E:\\CDAC\\ms.net\\Practice_3Jul\\FileHandlingExample\\FileHandlingExample.csproj",
+  "projectFilePath": "E:\\batch1\\ms.net\\gitRepo\\Practice_3Jul\\FileHandlingExample\\FileHandlingExample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ajays\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+    "C:\\Users\\dac\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
   ],
   "logs": []
 }
