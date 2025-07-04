@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "DatabaseExample\\Program.cs",
               "ToolTip": "E:\\CDAC\\ms.net\\Practice_3Jul\\DatabaseExample\\Program.cs",
               "RelativeToolTip": "DatabaseExample\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAANUBAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T04:17:02.94Z",
               "EditorCaption": ""
@@ -51,7 +51,8 @@
               "RelativeToolTip": "ReflectionExample\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:01:04.979Z"
+              "WhenOpened": "2025-07-03T05:01:04.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +64,8 @@
               "RelativeToolTip": "serializationExample\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T03:27:32.179Z"
+              "WhenOpened": "2025-07-03T03:27:32.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +77,8 @@
               "RelativeToolTip": "FileHandlingExample\\Program.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwEAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T02:34:49.888Z"
+              "WhenOpened": "2025-07-03T02:34:49.888Z",
+              "EditorCaption": ""
             }
           ]
         }

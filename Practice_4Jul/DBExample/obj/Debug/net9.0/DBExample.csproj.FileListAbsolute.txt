@@ -1,0 +1,5 @@
+E:\CDAC\ms.net\Practice_4Jul\DBExample\obj\Debug\net9.0\DBExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\Practice_4Jul\DBExample\obj\Debug\net9.0\DBExample.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\Practice_4Jul\DBExample\obj\Debug\net9.0\DBExample.AssemblyInfo.cs
+E:\CDAC\ms.net\Practice_4Jul\DBExample\obj\Debug\net9.0\DBExample.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\Practice_4Jul\DBExample\obj\Debug\net9.0\DBExample.sourcelink.json

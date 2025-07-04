@@ -1,0 +1,17 @@
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form1.resources
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.sourcelink.json
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\CDAC\ms.net\Practice_4Jul\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll

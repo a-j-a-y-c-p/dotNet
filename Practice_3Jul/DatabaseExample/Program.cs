@@ -4,6 +4,7 @@ using System.Data;
 using static System.Net.Mime.MediaTypeNames;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Diagnostics.Metrics;
+using System.Data.Common;
 
 namespace DatabaseExample
 {
@@ -25,13 +26,14 @@ namespace DatabaseExample
             //{
             //    Console.WriteLine(emp.Name);
             //}
-            Console.WriteLine(getSingleEmployee(3));
+            //Console.WriteLine(getSingleEmployee(3));
             Employee e = new Employee { EmpNo = 8, Name = "Yash", Basic = 150000, DeptNo = 10 };
             //update(e);
             //delete(8);
 
             //getDataFromMultipleTable();
             //transactionsFunction();
+            updateDataSet(e);
         }
         
 
@@ -430,6 +432,54 @@ namespace DatabaseExample
 
         }
 
+
+
+        static void updateDataSet(Employee emp)
+        {
+            SqlConnection cn = new SqlConnection();
+
+            DataSet ds = new DataSet();
+
+            SqlDataAdapter da = new SqlDataAdapter();
+
+            da.Fill(ds, "Emps");
+            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ActsJune25;Integrated Security=True;";
+            try
+            {
+                cn.Open();
+                SqlCommand cmdUpdate = new SqlCommand();
+                cmdUpdate.Connection = cn;
+                cmdUpdate.CommandType = CommandType.StoredProcedure;
+                cmdUpdate.CommandText = "UpdateEmployee";
+
+                // shouldn't allow to update primary key or the column on which we are doing "where" in query
+                cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@EmpNo", SourceColumn = "EmpNo", SourceVersion = DataRowVersion.Original });
+                cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@Name", SourceColumn = "Name", SourceVersion = DataRowVersion.Current });
+                cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@Basic", SourceColumn = "Basic", SourceVersion = DataRowVersion.Current });
+                cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@DeptNo", SourceColumn = "DeptNo", SourceVersion = DataRowVersion.Current });
+
+
+
+                da.UpdateCommand = cmdUpdate;
+
+                DataSet ds2 = ds.GetChanges(); // gives only the rows whose rowState is changed
+                da.Update(ds2, "Emps");
+
+                //ds.AcceptChanges(); // changes the rowState to unchanged;
+                //ds.RejectChanges(); // change all the data also back to original data;
+                //da.ContinueUpdateOnError = true;  // if there is an error in an row then ignore the error and continue for further rows
+
+                Console.WriteLine("success");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
+        }
 
 
 
