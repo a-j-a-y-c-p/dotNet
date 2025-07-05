@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@* Dependency Injection to access httpContext
+
+    But first we have to enable it in program.cs file using builder.services.addHttpContextAccessor()
+
+*@
+@inject IHttpContextAccessor x
+
+@{
+    // getting  the varialbe data from httpContext
+    string t = x.HttpContext.Session.GetString("key1");
+}
+
+<div>
+    a = @ViewBag.a
+    <br />
+    b = @ViewBag.b
+    <br />
+    c = @TempData["c"]
+</div>
+
+
+
+@* @{
+    int i = 1;
+    if (i % 2 == 0)
+    {
+        // writing html code in razor code (only required for those which are not a html tag)
+        @: result = even 
+        // html tags can be written normally
+        <br/>
+    }
+    else
+    {
+        @: result =  odd
+    }
+} *@

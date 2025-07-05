@@ -54,8 +54,7 @@
               "RelativeToolTip": "FirstASPMVC\\Views\\Default\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T06:43:11.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:43:11.94Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "FirstASPMVC\\Controllers\\DefaultController.cs",
               "ToolTip": "E:\\CDAC\\ms.net\\FirstASPMVC\\FirstASPMVC\\Controllers\\DefaultController.cs",
               "RelativeToolTip": "FirstASPMVC\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T06:40:52.63Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "FirstASPMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T06:13:13.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:13:13.945Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "FirstASPMVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T06:12:37.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:12:37.716Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "FirstASPMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-04T06:04:28.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:04:28.231Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "FirstASPMVC\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T05:31:20.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T05:31:20.891Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "FirstASPMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-04T05:30:58.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T05:30:58.671Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "FirstASPMVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T05:29:30.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T05:29:30.014Z"
             }
           ]
         }

@@ -7,8 +7,63 @@ namespace FirstASPMVC.Controllers
         //binding - automatically giving the values to the variable provided its of same name
         public IActionResult Index(int? id, int a=1, int b=2)
         {
-            if(id == 123)
+
+//            AcceptedAtActionResult
+//AcceptedAtRouteResult
+//AcceptedResult
+//AntiforgeryValidationFailedResult
+//BadRequestObjectResult
+//BadRequestResult
+//ChallengeResult
+//ConflictObjectResult
+//ConflictResult
+//ContentResult
+//CreatedAtActionResult
+//CreatedAtRouteResult
+//CreatedResult
+//EmptyResult
+//FileContentResult
+//FileResult
+//FileStreamResult
+//ForbidResult
+//HttpActionResult
+//JsonResult
+//LocalRedirectResult
+//NoContentResult
+//NotFoundObjectResult
+//NotFoundResult
+//ObjectResult
+//OkObjectResult
+//OkResult
+//PhysicalFileResult
+//RedirectResult
+//RedirectToActionResult
+//RedirectToPageResult
+//RedirectToRouteResult
+//SignInResult
+//SignOutResult
+//StatusCodeResult
+//UnauthorizedObjectResult
+//UnauthorizedResult
+//UnprocessableEntityObjectResult
+//UnprocessableEntityResult
+//UnsupportedMediaTypeResult
+//VirtualFileResult
+//PartialViewResult
+//ViewComponentResult
+//ViewResult
+
+            foreach (var item in derivedTypes)
+            {
+                Console.WriteLine(item.Name);
+            }
+
+
+
+            if (id == 123)
                     return NotFound();
+
+            
 
             Console.WriteLine(a + " " + b);
 
